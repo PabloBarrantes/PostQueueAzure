@@ -1,0 +1,39 @@
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\PostQueueAzure.exe.config
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\PostQueueAzure.exe
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\PostQueueAzure.pdb
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.csprojResolveAssemblyReference.cache
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.Form1.resources
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.Properties.Resources.resources
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.csproj.GenerateResource.cache
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.csproj.CoreCompileInputs.cache
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.csproj.CopyComplete
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.exe
+C:\Users\MCSD2017\Documents\Visual Studio 2017\Projects\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.pdb
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\PostQueueAzure.exe.config
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\PostQueueAzure.exe
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\PostQueueAzure.pdb
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\Newtonsoft.Json.dll
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\bin\Debug\Newtonsoft.Json.xml
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.csprojResolveAssemblyReference.cache
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.Form1.resources
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.Properties.Resources.resources
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.csproj.GenerateResource.Cache
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.csproj.CoreCompileInputs.cache
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.exe
+F:\MCSD\Post y vídeo QUEUES\PostQueueAzure\PostQueueAzure\obj\Debug\PostQueueAzure.pdb
